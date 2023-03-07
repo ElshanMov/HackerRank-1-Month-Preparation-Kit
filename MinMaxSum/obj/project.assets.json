@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elshan\\Desktop\\HackerRank\\HackerRank-1-Month-Preparation-Kit\\PlusMinus\\PlusMinus.csproj",
-      "projectName": "PlusMinus",
-      "projectPath": "C:\\Users\\Elshan\\Desktop\\HackerRank\\HackerRank-1-Month-Preparation-Kit\\PlusMinus\\PlusMinus.csproj",
+      "projectUniqueName": "C:\\Users\\Elshan\\Desktop\\HackerRank\\HackerRank-1-Month-Preparation-Kit\\MinMaxSum\\MinMaxSum.csproj",
+      "projectName": "MinMaxSum",
+      "projectPath": "C:\\Users\\Elshan\\Desktop\\HackerRank\\HackerRank-1-Month-Preparation-Kit\\MinMaxSum\\MinMaxSum.csproj",
       "packagesPath": "C:\\Users\\Elshan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elshan\\Desktop\\HackerRank\\HackerRank-1-Month-Preparation-Kit\\PlusMinus\\obj\\",
+      "outputPath": "C:\\Users\\Elshan\\Desktop\\HackerRank\\HackerRank-1-Month-Preparation-Kit\\MinMaxSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

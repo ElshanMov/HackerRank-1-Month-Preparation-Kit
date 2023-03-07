@@ -1,0 +1,15 @@
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\bin\Debug\net7.0\MinMaxSum.exe
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\bin\Debug\net7.0\MinMaxSum.deps.json
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\bin\Debug\net7.0\MinMaxSum.runtimeconfig.json
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\bin\Debug\net7.0\MinMaxSum.dll
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\bin\Debug\net7.0\MinMaxSum.pdb
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\MinMaxSum.csproj.AssemblyReference.cache
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\MinMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\MinMaxSum.AssemblyInfoInputs.cache
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\MinMaxSum.AssemblyInfo.cs
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\MinMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\MinMaxSum.dll
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\refint\MinMaxSum.dll
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\MinMaxSum.pdb
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\MinMaxSum.genruntimeconfig.cache
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\MinMaxSum\obj\Debug\net7.0\ref\MinMaxSum.dll
