@@ -1,0 +1,15 @@
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\bin\Debug\net7.0\Lonely Integer.exe
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\bin\Debug\net7.0\Lonely Integer.deps.json
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\bin\Debug\net7.0\Lonely Integer.runtimeconfig.json
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\bin\Debug\net7.0\Lonely Integer.dll
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\bin\Debug\net7.0\Lonely Integer.pdb
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\Lonely Integer.csproj.AssemblyReference.cache
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\Lonely Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\Lonely Integer.AssemblyInfoInputs.cache
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\Lonely Integer.AssemblyInfo.cs
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\Lonely Integer.csproj.CoreCompileInputs.cache
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\Lonely Integer.dll
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\refint\Lonely Integer.dll
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\Lonely Integer.pdb
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\Lonely Integer.genruntimeconfig.cache
+C:\Users\Elshan\Desktop\HackerRank\HackerRank-1-Month-Preparation-Kit\Lonely Integer\obj\Debug\net7.0\ref\Lonely Integer.dll
